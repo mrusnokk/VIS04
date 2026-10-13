@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "ZakaznikId": 1,
+    "MaterialId": 1,
+    "Sirka": 10,
+    "Vyska": 10,
+    "Hloubka": 10,
+    "Poznamka": "sfas",
+    "Stav": "POTVRZENA",
+    "VytvorenoAt": "2026-10-06T07:33:20.8762Z"
+  }
+]

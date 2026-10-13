@@ -1,0 +1,14 @@
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/bin/Debug/net10.0/Rdg
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/bin/Debug/net10.0/Rdg.deps.json
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/bin/Debug/net10.0/Rdg.runtimeconfig.json
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/bin/Debug/net10.0/Rdg.dll
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/bin/Debug/net10.0/Rdg.pdb
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/Rdg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/Rdg.AssemblyInfoInputs.cache
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/Rdg.AssemblyInfo.cs
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/Rdg.csproj.CoreCompileInputs.cache
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/Rdg.dll
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/refint/Rdg.dll
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/Rdg.pdb
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/Rdg.genruntimeconfig.cache
+/Users/mrusnokk/School/VIS/VIS_cv04 3/Rdg/obj/Debug/net10.0/ref/Rdg.dll
